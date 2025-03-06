@@ -138,7 +138,7 @@ const config = {
               },*/
               {
                 label: 'GitHub',
-                href: 'https://github.com/pipelinefx',
+                href: 'https://github.com/Pipelinefx',
               },
             ],
           },

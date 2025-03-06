@@ -1,17 +1,41 @@
-<p align="center">
-  <img src="static/img/QubeLogo.png">
-</p>
+# Website
 
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-Introduction
-------------
-This is PipeineFX's repository for Qube! user documentation.
+### Installation
 
-Our updated documentation is built using [Docusaurus 3.7.0](https://docusaurus.io/) - a beautiful, modern and advanaced static-site generator.
+```
+$ yarn
+```
 
-Please feel free to use internally or submit pull requests if you find any issues.
+### Local Development
 
-Mahalo,
+```
+$ yarn start
+```
 
-PipelineFX Support
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
+### Build
+
+```
+$ yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+### Deployment
+
+Using SSH:
+
+```
+$ USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

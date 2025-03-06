@@ -60,7 +60,7 @@ Qube! allows the administrator to organize the farm into clusters or host groups
 
 | Command | Meaning |
 | ---     | ---     |
-| % qbsub --groups "vfx,character" Render my/file.ma | Render the Maya file called file.ma on any host in the 'vfx' or 'character' groups |
+| % qbsub --groups "vfx,character" Render my/file.ma | Render the Maya file called file.ma on any host in the 'vfx' or 'character' groups |
 | % qbsub --omitgroups "vfx,character" command | Run 'command' on any host not in the 'vfx' or 'character' groups |
  
 

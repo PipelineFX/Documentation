@@ -10,7 +10,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'PipelineFX\'s Qube! Documentation',
   tagline: '',
-  //favicon: 'img/favicon.ico',
   favicon: 'img/favicon-128-128.png',
 
   // Set the production url of your site here

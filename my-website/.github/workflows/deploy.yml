@@ -46,9 +46,6 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v4  # **New required step**
-
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

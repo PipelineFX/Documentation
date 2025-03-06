@@ -5,7 +5,7 @@ sidebar_position: 6
 
 # Troubleshooting and Reporting 
 
-PipelineFX provides many avenues to answer customer issues and questions with Qube. We recommend that you look at the Knowledge Base first, and if you can't find what you are looking for, visit the user Forum. Both of these provide information on common issues and questions. PipelineFX can also be contacted via email (preferred) or over the phone.
+PipelineFX provides many avenues to answer customer issues and questions with Qube!. We recommend that you look at the Knowledge Base first, and if you can't find what you are looking for, visit the user Forum. Both of these provide information on common issues and questions. PipelineFX can also be contacted via email (preferred) or over the phone.
 
 ## This Documentation
 
@@ -19,7 +19,7 @@ The Knowledge Base provides a list of answers to common questions posed by custo
 
 ## Forum
 
-PipelineFX features an online forum for discussing Qube support issues, exchanging tips and techniques, and for suggesting improvements to our products.
+PipelineFX features an online forum for discussing Qube! support issues, exchanging tips and techniques, and for suggesting improvements to our products.
 
 -	http://pipelinefx.com/forum
 

@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="static/img/QubeLogo.png">
+  <img src="my-website/static/img/QubeLogo.png">
 </p>
 
 
